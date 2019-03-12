@@ -1,0 +1,4 @@
+﻿  component.cpp
+c:\users\krasn\source\repos\ifmo c\ifmo c\component.cpp(14): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\krasn\source\repos\ifmo c\ifmo c\component.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+  ifmo c.vcxproj -> C:\Users\krasn\source\repos\ifmo c\Debug\ifmo c.exe
