@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ifmo c++", "Ifmo c++\Ifmo c++.vcxproj", "{EB0405BC-6224-4DA0-A858-046EFCC18189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0405BC-6224-4DA0-A858-046EFCC18189}.Debug|x64.ActiveCfg = Debug|x64
+		{EB0405BC-6224-4DA0-A858-046EFCC18189}.Debug|x64.Build.0 = Debug|x64
+		{EB0405BC-6224-4DA0-A858-046EFCC18189}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB0405BC-6224-4DA0-A858-046EFCC18189}.Debug|x86.Build.0 = Debug|Win32
+		{EB0405BC-6224-4DA0-A858-046EFCC18189}.Release|x64.ActiveCfg = Release|x64
+		{EB0405BC-6224-4DA0-A858-046EFCC18189}.Release|x64.Build.0 = Release|x64
+		{EB0405BC-6224-4DA0-A858-046EFCC18189}.Release|x86.ActiveCfg = Release|Win32
+		{EB0405BC-6224-4DA0-A858-046EFCC18189}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C474E452-E866-4BFB-B5D6-2175801F6672}
+	EndGlobalSection
+EndGlobal

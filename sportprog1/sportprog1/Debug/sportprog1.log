@@ -1,0 +1,13 @@
+﻿  TravellingSlashman.cpp
+C:\Users\krasn\source\repos\sportprog1\sportprog1\TravellingSlashman.cpp(82,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\krasn\source\repos\sportprog1\sportprog1\TravellingSlashman.cpp(112,9): warning C4101: 'i': unreferenced local variable
+C:\Users\krasn\source\repos\sportprog1\sportprog1\TravellingSlashman.cpp(146,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\krasn\source\repos\sportprog1\sportprog1\TravellingSlashman.cpp(299,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\krasn\source\repos\sportprog1\sportprog1\TravellingSlashman.cpp(478,19): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\krasn\source\repos\sportprog1\sportprog1\TravellingSlashman.cpp(552,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\krasn\source\repos\sportprog1\sportprog1\TravellingSlashman.cpp(509,12): warning C4101: 'd2': unreferenced local variable
+  sportprog1.vcxproj -> C:\Users\krasn\source\repos\sportprog1\Debug\sportprog1.exe
